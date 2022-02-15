@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tony
 - 👀 I’m interested in Hadoop Data Admin Topics
-- 🌱 I’m currently learning bash scripting
+- 🌱 I’m currently learning bash scripting, gcp skills, python, etc.
 - 💞️ I’m looking to learn my coding skills as it pertains to the Hadoop environment.
 - 📫 How to reach me: jurbina155@yahoo.com
 
